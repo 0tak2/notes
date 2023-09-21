@@ -2,4 +2,4 @@
 
 ## 공부
 
-* [JPA](JPA/index)
+* [JPA](JPA/index.md)
